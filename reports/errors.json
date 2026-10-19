@@ -1,0 +1,42 @@
+[
+  {
+    "text": "I (Career Tel) have added u as a contact on INDYAROCKS.COM to send FREE SMS. To remove from phonebook - sms NO to  &lt;#&gt;",
+    "true": "ham",
+    "spam_probability": 0.912
+  },
+  {
+    "text": "Hi this is Amy, we will be sending you a free phone number in a couple of days, which will give you an access to all the adult parties...",
+    "true": "spam",
+    "spam_probability": 0.027
+  },
+  {
+    "text": "Sorry I missed your call let's talk when you have the time. I'm on 07090201529",
+    "true": "spam",
+    "spam_probability": 0.051
+  },
+  {
+    "text": "dating:i have had two of these. Only started after i sent a text to talk sport radio last week. Any connection do you think or coincidence?",
+    "true": "spam",
+    "spam_probability": 0.055
+  },
+  {
+    "text": "Glad to see your reply.",
+    "true": "ham",
+    "spam_probability": 0.652
+  },
+  {
+    "text": "Your daily text from me \u2013 a favour this time",
+    "true": "ham",
+    "spam_probability": 0.532
+  },
+  {
+    "text": "Please protect yourself from e-threats. SIB never asks for sensitive information like Passwords,ATM/SMS PIN thru email. Never share your password with anybody.",
+    "true": "ham",
+    "spam_probability": 0.465
+  },
+  {
+    "text": "Babe: U want me dont u baby! Im nasty and have a thing 4 filthyguys. Fancy a rude time with a sexy bitch. How about we go slo n hard! Txt XXX SLO(4msgs)",
+    "true": "spam",
+    "spam_probability": 0.301
+  }
+]
